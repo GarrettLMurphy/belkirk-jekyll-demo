@@ -9,7 +9,7 @@ textline: Posts page
 menu:
   navigation:
     identifier: _posts
-    weight: 3
+    weight: 4
   footer:
     identifier: _posts
     weight: 3
